@@ -1,6 +1,6 @@
 # Satellite-Visualization-Toolbox
 
-This is a project of visual mapping of satellite attitude position, based on MATLAB 2021b.
+This is a project aiming to visualize satellite pose and path, based on MATLAB 2021b.
 
 Some common properties for satellite model are given as port in high-level class constructors. 
 
