@@ -8,8 +8,6 @@ Support setting satellite model shape, size, components, line width, color in gr
 
 The print effect in Figure show below.
 
-![Satellite Model](Model.png)
+<div align=center><img src="Model.png" width="400">
 
-![Scene of Space Mission](Scene.png)
-
-<img src="Model.png" width="500"><img src="S.png" width="500">
+<div align=center><img src="Scene.png" width="3000">
